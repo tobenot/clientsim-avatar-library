@@ -1,0 +1,9 @@
+{
+  "name": "Luobei.ClientSimAvatarLibrary.Editor",
+  "rootNamespace": "Luobei.ClientSimActors",
+  "references": ["VRC.ClientSim", "VRC.SDKBase"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "noEngineReferences": false
+}

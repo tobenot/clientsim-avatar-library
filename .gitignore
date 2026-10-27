@@ -1,0 +1,20 @@
+# Local Unity projects and generated packages
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+Build*/
+dist/
+__pycache__/
+*.py[cod]
+.DS_Store
+.vs/
+.idea/
+# Never commit local credentials or private avatar payloads
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.bundle

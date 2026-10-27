@@ -1,0 +1,24 @@
+{
+  "name": "io.github.tobenot.clientsim-avatar-library",
+  "displayName": "ClientSim Avatar Library",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "Load external Humanoid avatars in VRChat ClientSim and share one local library across projects.",
+  "author": {
+    "name": "LuobeiLetters (tobenot)",
+    "email": "42083410+tobenot@users.noreply.github.com",
+    "url": "https://github.com/tobenot"
+  },
+  "license": "MIT",
+  "documentationUrl": "https://github.com/tobenot/clientsim-avatar-library#readme",
+  "changelogUrl": "https://github.com/tobenot/clientsim-avatar-library/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/tobenot/clientsim-avatar-library/blob/main/LICENSE",
+  "url": "https://github.com/tobenot/clientsim-avatar-library/releases/download/v0.1.0/io.github.tobenot.clientsim-avatar-library-0.1.0.zip",
+  "vpmDependencies": {
+    "com.vrchat.worlds": "3.10.2"
+  },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "keywords": ["vrchat", "clientsim", "avatar", "humanoid", "editor"]
+}
